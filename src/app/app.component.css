@@ -1,9 +1,24 @@
-.container-fluid {
-background-image: url(../assets/images/bg.gif);
-background-repeat: repeat-x;
-background-color: #B3B3B3;
-}
-
 .header-image-row {
   text-align:center;
+  background-image: url(../assets/images/bg.gif);
+  background-repeat: repeat-x;
+  background-color: #B3B3B3;
+}
+
+.main-container-row {
+  background-color:#1e1b1b;
+}
+
+.main-page-container-col {
+  text-align: center;
+  padding:0;
+}
+
+.main-page-container {
+}
+
+.image-1 {
+  float:right;
+  margin-top:60px;
+  margin-bottom:60px;
 }

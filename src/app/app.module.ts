@@ -3,6 +3,8 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 
+// @todo - only have img fluid when needed!!!!
+
 @NgModule({
   declarations: [
     AppComponent
