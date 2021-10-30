@@ -1,1 +1,9 @@
-/**************/
+.container-fluid {
+background-image: url(../assets/images/bg.gif);
+background-repeat: repeat-x;
+background-color: #B3B3B3;
+}
+
+.header-image-row {
+  text-align:center;
+}
